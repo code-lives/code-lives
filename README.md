@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api?username=code-lives&count_private=true&theme=default&show_icon=true&hide=contribs,prs" align='right'>
+<img src="https://github-readme-stats.vercel.app/api?username=code-lives&count_private=true&theme=default&show_icon=true&hide=contribs" align='right'>
 
 #### Hello Word! 
 
