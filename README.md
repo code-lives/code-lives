@@ -3,5 +3,5 @@
 #### Hello Word! 
 
 -  PHP 开发 
--  我不喜欢编程 😄
+-  编程是为了挣钱 😄
 -  有任何问题 直接【<b>[issues](https://github.com/code-lives/code-lives/issues)</b>】
