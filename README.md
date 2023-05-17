@@ -2,6 +2,8 @@
 
 #### Hello Word! 
 
--  PHP 开发 
--  编程是为了挣钱 😄
+-  PHP菜鸟开发 ，中国互联网越来越卷（没公司了😄），决定开始学习
+-  在2022年6月，熟练使用golang，及封装一些pkg包
+-  在2022年7月，熟练使用vue+react
+-  熟悉框架的底层架构及运行原理
 -  有任何问题 直接【<b>[issues](https://github.com/code-lives/code-lives/issues)</b>】
