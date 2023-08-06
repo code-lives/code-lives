@@ -1,8 +1,6 @@
+#### Pays Star
+[![Stargazers over time](https://starchart.cc/code-lives/Pays.svg)](https://starchart.cc/code-lives/Pays.svg)
 
-#### Hello Word! 
-
--  有任何问题 直接【<b>[issues](https://github.com/code-lives/code-lives/issues)</b>】
-  
 #### 小程序功能（支付、手机号解密、获取Token、模版消息、支付异步通知、退款、订单查询）
 - 小程序集合（PHP）
 <a href="https://packagist.org/packages/code-lives/applet-pays" target="_blank"><img src="https://img.shields.io/packagist/v/code-lives/applet-pays?include_prereleases" alt="GitHub"></a>
