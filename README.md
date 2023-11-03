@@ -5,7 +5,7 @@
 <a href="https://github.com/code-lives/Pays/fork" target="_blank"><img src="https://img.shields.io/github/forks/code-lives/Pays?style=social" alt="GitHub forks"></a>
 <a href="https://packagist.org/packages/code-lives/applet-pays" target="_blank"><img src="https://img.shields.io/packagist/dt/code-lives/applet-pays" alt="GitHub"></a>
 ```php
-composer require code-lives/applet-pays
+composer require code-lives/applet-pays 5.9
 ```
 - 抖音小程序（PHP）
 <a href="https://packagist.org/packages/code-lives/byte" target="_blank"><img src="https://img.shields.io/packagist/v/code-lives/byte?include_prereleases" alt="GitHub"></a>
@@ -47,6 +47,29 @@ composer require code-lives/kuaishou
 ```php
 composer require code-lives/ali
 ```
+#### 腾讯IM
 
-#### Pays Star
-[![Stargazers over time](https://starchart.cc/code-lives/Pays.svg)](https://starchart.cc/code-lives/Pays.svg)
+加入聊天池、系统发送自定义消息、加入群组、创建群组、获取群成员列表、检测用户是否在加入Im、更改未读状态、拉取聊天记录、设置个人资料
+
+<a href="https://packagist.org/packages/code-lives/im" target="_blank"><img src="https://img.shields.io/packagist/v/code-lives/im?include_prereleases" alt="GitHub"></a>
+<a href="https://github.com/code-lives/im" target="_blank"><img src="https://img.shields.io/github/stars/code-lives/im?style=social" alt="GitHub forks"></a>
+<a href="https://github.com/code-lives/im/fork" target="_blank"><img src="https://img.shields.io/github/forks/code-lives/im?style=social" alt="GitHub forks"></a>
+<a href="https://packagist.org/packages/code-lives/im" target="_blank"><img src="https://img.shields.io/packagist/dt/code-lives/im" alt="GitHub"></a>
+
+
+```php
+composer require code-lives/im
+```
+#### 腾讯移动推送 TPNS
+
+全量推送、单账号推送或多账号推送、单设备推送或多设备推送、标签推送、标签绑定与解绑、删除标签下所有设备、账号绑定与解绑、账号查询
+
+<a href="https://packagist.org/packages/code-lives/app-push-tpns" target="_blank"><img src="https://img.shields.io/packagist/v/code-lives/app-push-tpns?include_prereleases" alt="GitHub"></a>
+<a href="https://github.com/code-lives/Tencent-app-push" target="_blank"><img src="https://img.shields.io/github/stars/code-lives/Tencent-app-push?style=social" alt="GitHub forks"></a>
+<a href="https://github.com/code-lives/Tencent-app-push/fork" target="_blank"><img src="https://img.shields.io/github/forks/code-lives/Tencent-app-push?style=social" alt="GitHub forks"></a>
+<a href="https://packagist.org/packages/code-lives/app-push-tpns" target="_blank"><img src="https://img.shields.io/packagist/dt/code-lives/app-push-tpns" alt="GitHub"></a>
+
+
+```php
+composer require code-lives/app-push-tpns 1.1.0
+```
